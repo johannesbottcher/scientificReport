@@ -1,8 +1,8 @@
-# Creating a Scientific Report 
+# Creating a Scientific Report with LaTeX
 
 
 All you need to start a scientific report (no matter if you want
-to get a Bachelor, master or PhD degree) is this. Add what you
+to get a Bachelor, master or PhD thesis) is this. Add what you
 need when you need it. This is a very simple example, some would
 call it template. I don't.
 
